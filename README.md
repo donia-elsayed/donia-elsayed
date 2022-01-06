@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm DoniaElsayed</h1>
-<h3 align="center">A Junior front end developer.just graduated from ITI</h3>
+<h1 align="left">Hi 👋, I'm Donia Elsayed</h1>
+<h3 align="left">A Junior front end developer.just graduated from ITI</h3>
 
 - 📫 How to reach me **doniaelsayed272@gmail.com**
 
